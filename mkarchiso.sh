@@ -5,7 +5,7 @@
 
 date=$(date +'%m-%Y')
 live="live-$date"
-dir="relengb"
+dir="archiso"
 
 
 mkdir -p $live
