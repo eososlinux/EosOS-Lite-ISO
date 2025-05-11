@@ -28,6 +28,7 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
+espeakup
 ethtool
 exfatprogs
 fastfetch
@@ -74,6 +75,8 @@ lsof
 lsscsi
 lvm2
 lynx
+man-db
+man-pages
 mc
 mdadm
 memtest86+
@@ -191,6 +194,7 @@ xorg-xkill
 xorg-xrandr
 xorg-xrdb
 zip
+zsh
 
 # dependencias calamares
 kpmcore
